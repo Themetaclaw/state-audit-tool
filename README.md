@@ -1,9 +1,19 @@
 # STATE Audit Tool
 
-> Audit state files for consistency, staleness, and completeness.
+> Audit your AI agent architecture against the STATE framework.
 
-*Project pending full specification via BMAD Method.*
+**Status:** 🟡 In Development
 
-## Status
+Built with Next.js + Tailwind CSS.
 
-🟡 Planning Phase — PRD incoming
+## BMAD Workflow
+
+This project uses the BMAD Method for development.
+
+```bash
+# Quick spec (small tasks)
+npx bmad-method quick-spec
+
+# Full PRD flow
+npx bmad-method create-prd
+```
