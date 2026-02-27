@@ -1,0 +1,28 @@
+---
+epic: STATE Audit Tool MVP
+created: '2026-02-26T18:45:00Z'
+status: in_progress
+stories:
+  - story-landing-page-form.md
+  - story-results-page.md
+  - story-email-capture.md
+  - story-pdf-download.md
+  - story-mobile-responsive.md
+---
+
+# Epic: STATE Audit Tool MVP
+
+## Stories
+
+| ID | Story | File | Status |
+|----|-------|------|--------|
+| S1 | Landing page + assessment form | story-landing-page-form.md | COMPLETE |
+| S2 | Results page with scoring | story-results-page.md | COMPLETE |
+| S3 | Email capture + Resend integration | story-email-capture.md | PENDING |
+| S4 | PDF download | story-pdf-download.md | PENDING |
+| S5 | Mobile responsive | story-mobile-responsive.md | PENDING |
+
+## Progress
+
+- Completed: 2/5 stories
+- Remaining: 3 stories
